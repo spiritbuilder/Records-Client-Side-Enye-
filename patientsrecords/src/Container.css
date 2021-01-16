@@ -1,0 +1,23 @@
+.header{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.topsearchbar{
+    font-size: larger;
+    width:500px;
+    padding: 12px;
+    text-align: center;
+    border-radius: 8px 0 0 8px;
+    border: 2px solid black;
+}
+.searchbtn{
+    padding:14px;
+    font-size: larger;
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 0 8px 8px 0;
+
+}
